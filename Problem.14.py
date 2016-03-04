@@ -1,4 +1,7 @@
 #problem 14 -	Longest Collatz sequence
+#This solution uses brute force unfortunately
+# You could potentially check if the number has already been in a previous sequence and then add currentChainLength 
+# to the chain length of the matched number (although this would be faster would take up more memory)
 currentNumber=0
 currentChainLength=0
 largestChainLength=0
