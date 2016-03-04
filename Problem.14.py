@@ -1,4 +1,4 @@
-#problem 14
+#problem 14 -	Longest Collatz sequence
 currentNumber=0
 currentChainLength=0
 largestChainLength=0
