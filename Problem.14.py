@@ -19,7 +19,6 @@ for i in range(2,1000000):
         if currentChainLength>largestChainLength:
             largestChainLength=currentChainLength
             lclStartNumber=i
-            print(lclStartNumber,largestChainLength)
 print(lclStartNumber)
             
         
